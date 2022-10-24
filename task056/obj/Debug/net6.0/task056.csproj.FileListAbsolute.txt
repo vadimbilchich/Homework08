@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\bin\Debug\net6.0\task056.exe
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\bin\Debug\net6.0\task056.deps.json
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\bin\Debug\net6.0\task056.runtimeconfig.json
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\bin\Debug\net6.0\task056.dll
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\bin\Debug\net6.0\task056.pdb
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.dll
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\refint\task056.dll
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.pdb
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\task056.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Homework07\Tasks\task056\obj\Debug\net6.0\ref\task056.dll

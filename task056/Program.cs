@@ -17,26 +17,26 @@ CreateArray(array);
 WriteArray(array);
 
 int minSumLine = 0;
-int SumLine = SumLineElements(array);
+int SumLine = SumLineElements(array, 0);
 for(int i = 0; i < array.GetLength(0); i ++)
 {
     int tempSumLine = SumLineElements(array, i);
-    if(sumLine > tempSumLine)
+    if(SumLine > tempSumLine)
     {
         SumLine = tempSumLine;
         minSumLine = 1;
     }
 }
-Console.WriteLine($"\n{minSumLine + 1} - строка с наименьшей суммой ({sumLine}) элементов ");
+Console.WriteLine($"\n{minSumLine + 1} - строка с наименьшей суммой ({SumLine}) элементов ");
 
 int SumLineElements(int[,] array, int i)
 {
-    int sumLine = array[i, 0];
+    int SumLine = array[i, 0];
     for(int j = 0; j < array.GetLength(1); j ++)
     {
-        sumLine += array[i, j];
+        SumLine += array[i, j];
     }
-    return sumLine;
+    return SumLine;
 }
 
 int InputNumbers(string input)
